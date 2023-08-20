@@ -1,0 +1,7 @@
+Notebook
+pandas
+matplotlib
+seaborn
+cufflinks
+numpy
+
